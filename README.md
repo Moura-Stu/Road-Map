@@ -1,4 +1,4 @@
 # Road-Map
-Este road é a trilha de curso que devo seguir
+Repositório de trilha de cursos
 
 
